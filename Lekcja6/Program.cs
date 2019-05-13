@@ -30,7 +30,7 @@ namespace Lekcja6
                 Console.WriteLine();
             }
 
-            Console.WriteLine(x+" "+y);
+           
 
             Console.ReadKey();
 
